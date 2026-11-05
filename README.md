@@ -1,4 +1,4 @@
-# credit-card-fraud-detection
+
 # Credit Card Fraud Detection
 
 Binary classification on a highly imbalanced dataset: only **492 frauds out of 284,807 transactions (0.17%)**.
